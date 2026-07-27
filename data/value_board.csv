@@ -1,2 +1,5 @@
 Model,MemoryGB,PriceUSD,GBper100USD
-Placeholder,0,0,0.00
+GeForce RTX 4060,8,299,2.68
+GeForce RTX 4070,12,549,2.19
+GeForce RTX 4080,16,1099,1.46
+GeForce RTX 4090,24,1799,1.33
